@@ -1,4 +1,4 @@
-# Прогнозирование заказов такси на следующий час
+# Определение рыночной стоимости подержанного автомобиля
 [ipynb](https://github.com/tkachuk45/portfolio/blob/main/car_prices/car_prices_project.ipynb)
 
 ## Описание проекта
